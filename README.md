@@ -2,6 +2,32 @@
 
 Welcome to **LearnMoreGit**, a comprehensive guide to Git commands with clear explanations and practical examples. This README covers essential Git commands for beginners and intermediate users, focusing on real-world usage and understanding.
 
+## Table of Contents (Learn Git)
+
+- [Git Configuration (`git config`)](#git-configuration-git-config)
+- [Initialize a Git Repository (`git init`)](#initialize-a-git-repository-git-init)
+- [Adding Files to Git (`git add`)](#adding-files-to-git-git-add)
+- [Viewing Commit History (`git log`)](#viewing-commit-history-git-log)
+- [Commit Changes (`git commit`)](#commit-changes-git-commit)
+- [Check Repository Status (`git status`)](#check-repository-status-git-status)
+- [Clean Untracked Files (`git clean`)](#clean-untracked-files-git-clean)
+- [Unstage a File (`git reset`)](#unstage-a-file-git-reset)
+- [Show Differences (`git diff`)](#show-differences-git-diff)
+- [Revert Changes (`git checkout` and `git reset`)](#revert-changes-git-checkout-and-git-reset)
+- [Branching (`git branch` and `git checkout`)](#branching-git-branch-and-git-checkout)
+- [Merge Branches (`git merge`)](#merge-branches-git-merge)
+- [Remove Files (`git rm`)](#remove-files-git-rm)
+- [Delete or Rename Branch (`git branch`)](#delete-or-rename-branch-git-branch)
+- [Push and Pull (`git push` and `git pull`)](#push-and-pull-git-push-and-git-pull)
+- [Manage Remotes (`git remote`)](#manage-remotes-git-remote)
+- [Show Commit or Tag Details (`git show`)](#show-commit-or-tag-details-git-show)
+- [View File History (`git blame`)](#view-file-history-git-blame)
+- [Debug with Bisect (`git bisect`)](#debug-with-bisect-git-bisect)
+- [Stashing Changes (`git stash`)](#stashing-changes-git-stash)
+- [Clone Repository (`git clone`)](#clone-repository-git-clone)
+- [Cherry-pick Commits (`git cherry-pick`)](#cherry-pick-commits-git-cherry-pick)
+- [Summary](#summary)
+
 ---
 
 ## Git Configuration (`git config`)
